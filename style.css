@@ -129,7 +129,7 @@ main {
 }
 
 .hero-video video {
-    width: 60px;
+    width: 72px;
     height: auto;
     border-radius: 4px;
 }
@@ -199,6 +199,9 @@ main {
     max-height: 120px;
     border-radius: 4px;
     opacity: 0.9;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 
 /* Expertise Section */
@@ -404,7 +407,7 @@ footer {
     }
     
     .hero-video video {
-        width: 40px;
+        width: 48px;
     }
     
     .hero-title {
