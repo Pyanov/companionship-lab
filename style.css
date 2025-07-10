@@ -125,13 +125,13 @@ main {
 }
 
 .hero-video {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .hero-video video {
-    width: 120px;
+    width: 60px;
     height: auto;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .hero-title {
@@ -190,14 +190,15 @@ main {
 /* Section Images */
 .section-image {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 .section-image img {
     max-width: 100%;
     height: auto;
-    max-height: 300px;
-    border-radius: 8px;
+    max-height: 120px;
+    border-radius: 4px;
+    opacity: 0.9;
 }
 
 /* Expertise Section */
@@ -403,7 +404,7 @@ footer {
     }
     
     .hero-video video {
-        width: 80px;
+        width: 40px;
     }
     
     .hero-title {
@@ -424,6 +425,10 @@ footer {
     
     .section-title {
         margin-bottom: 40px;
+    }
+    
+    .section-image img {
+        max-height: 80px;
     }
     
     .expertise-grid {
