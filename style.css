@@ -115,7 +115,7 @@ header {
 
 /* Main Content */
 main {
-    margin-top: 81px; /* Header height + border */
+    margin-top: 0;
 }
 
 /* Hero Section */
@@ -129,7 +129,7 @@ main {
 }
 
 .hero-video video {
-    width: 72px;
+    width: 86px;
     height: auto;
     border-radius: 4px;
 }
@@ -399,7 +399,7 @@ footer {
     }
     
     main {
-        margin-top: 65px;
+        margin-top: 0;
     }
     
     .hero {
@@ -407,7 +407,7 @@ footer {
     }
     
     .hero-video video {
-        width: 48px;
+        width: 58px;
     }
     
     .hero-title {
